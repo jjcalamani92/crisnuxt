@@ -35,28 +35,3 @@ definePageMeta({
 
 </template>
 
-<!-- <script setup>
-import { ref } from 'vue'
-import { Dialog, DialogPanel } from '@headlessui/vue'
-import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
-
-const navigation = [
-  { name: 'Product', href: '#' },
-  { name: 'Features', href: '#' },
-  { name: 'Marketplace', href: '#' },
-  { name: 'Company', href: '#' },
-]
-
-const mobileMenuOpen = ref(false)
-
-useHead({
-  title: 'My App',
-  meta: [
-    { name: 'description', content: 'My amazing site.' }
-  ],
-  // bodyAttrs: {
-  //   class: 'test'
-  // },
-  // script: [ { innerHTML: 'console.log(\'Hello world\')' } ]
-})
-</script> -->

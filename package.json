@@ -16,8 +16,10 @@
     "typescript": "latest"
   },
   "dependencies": {
+    "@formkit/vue": "^0.17.3",
     "@headlessui/vue": "^1.7.14",
     "@heroicons/vue": "^2.0.18",
+    "axios": "^1.4.0",
     "pinia": "^2.1.4"
   }
 }
